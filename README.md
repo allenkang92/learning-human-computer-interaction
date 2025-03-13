@@ -15,10 +15,7 @@
 - [2.2 인지 과정과 뇌 연구](02-cognition-emotion/02-cognitive-brain-research.md): 인지심리학과 뇌 연구 개요
 - [2.3 얼굴 표정과 감성 인식](02-cognition-emotion/03-facial-expressions-emotions.md): FACS, 감성 표현, 표정 인식 기술
 - [2.4 생체 신호 기반 감성 인식](02-cognition-emotion/04-physiological-emotion-recognition.md): 심장 신호, HRV 분석, 생체 신호 기반 감성 인식
-
-## 소개
-
-인간-컴퓨터 상호작용(HCI)은 컴퓨터 기술과 인간 사용자 간의 인터페이스 설계에 관한 학문 분야입니다. 이 저장소는 HCI의 기본 원칙, 이론적 배경, 그리고 실제 응용 사례를 연구하고 학습하는 공간입니다.
+- [2.5 감성 컴퓨팅](02-cognition-emotion/05-emotional-computing.md): 감성의 필요성, 감성의 정의와 분류, 감성 반응 이론
 
 ## 디렉토리 구조
 
@@ -33,7 +30,8 @@ learning-human-computer-interaction/
     ├── 01-cognitive-ai.md        # 인지심리학과 인공지능
     ├── 02-cognitive-brain-research.md  # 인지 과정과 뇌 연구
     ├── 03-facial-expressions-emotions.md  # 얼굴 표정과 감성 인식
-    └── 04-physiological-emotion-recognition.md  # 생체 신호 기반 감성 인식
+    ├── 04-physiological-emotion-recognition.md  # 생체 신호 기반 감성 인식
+    └── 05-emotional-computing.md  # 감성 컴퓨팅
 ```
 
 ## 주요 주제
@@ -44,4 +42,4 @@ HCI의 기본 정의, 중요성, 목표, 다양한 관점에서의 HCI 이해, �
 
 ### 2. 인지와 감성
 
-인지심리학과 인공지능의 관계를 탐구합니다. 인간의 인지 과정이 어떻게 컴퓨터 모델로 표현될 수 있는지, 그리고 이러한 이해가 어떻게 더 나은 인터페이스 설계로 이어질 수 있는지 살펴봅니다. 또한 얼굴 표정 분석 시스템(FACS)과 감성 인식 기술, 생체 신호 기반 감성 인식 방법론을 통해 감성 컴퓨팅의 기반과 응용 분야를 알아봅니다.
+인지심리학과 인공지능의 관계를 탐구합니다. 인간의 인지 과정이 어떻게 컴퓨터 모델로 표현될 수 있는지, 그리고 이러한 이해가 어떻게 더 나은 인터페이스 설계로 이어질 수 있는지 살펴봅니다. 또한 얼굴 표정 분석 시스템(FACS)과 감성 인식 기술, 생체 신호 기반 감성 인식 방법론, 그리고 감성 컴퓨팅의 원리와 응용 분야를 통해 감성 컴퓨팅의 기반과 응용을 알아봅니다.
