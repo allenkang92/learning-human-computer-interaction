@@ -17,6 +17,13 @@
 - [2.4 생체 신호 기반 감성 인식](02-cognition-emotion/04-physiological-emotion-recognition.md): 심장 신호, HRV 분석, 생체 신호 기반 감성 인식
 - [2.5 감성 컴퓨팅](02-cognition-emotion/05-emotional-computing.md): 감성의 필요성, 감성의 정의와 분류, 감성 반응 이론
 
+### 03. 인간 지각과 인지
+- [3.1 인간 정보 처리 모형](03-human-perception-cognition/01-information-processing-model.md): 인간의 정보 처리 과정, 구성 요소
+- [3.2 시각적 지각](03-human-perception-cognition/02-visual-perception.md): 눈의 구조와 기능, 시각 능력, 시지각 체제화 원리
+- [3.3 청각적 지각](03-human-perception-cognition/03-auditory-perception.md): 귀의 구조와 기능, 음의 성질과 측정, 청각 정보 처리
+- [3.4 촉각적 지각](03-human-perception-cognition/04-tactile-perception.md): 피부의 구조와 기능, 촉각 디스플레이
+- [3.5 지각 측정 및 정신물리학](03-human-perception-cognition/05-perception-measurement.md): 물리량과 지각량의 관계, 측정법, 신호 탐지 이론
+
 ## 디렉토리 구조
 
 ```
@@ -26,20 +33,17 @@ learning-human-computer-interaction/
 │   ├── 02-hci-evolution-application.md  # HCI 발전 및 적용
 │   └── 03-hci-academic-aspects.md       # HCI 학문적 측면
 │
-└── 02-cognition-emotion/         # 인지와 감성 관련 자료
-    ├── 01-cognitive-ai.md        # 인지심리학과 인공지능
-    ├── 02-cognitive-brain-research.md  # 인지 과정과 뇌 연구
-    ├── 03-facial-expressions-emotions.md  # 얼굴 표정과 감성 인식
-    ├── 04-physiological-emotion-recognition.md  # 생체 신호 기반 감성 인식
-    └── 05-emotional-computing.md  # 감성 컴퓨팅
+├── 02-cognition-emotion/         # 인지와 감성 관련 자료
+│   ├── 01-cognitive-ai.md        # 인지심리학과 인공지능
+│   ├── 02-cognitive-brain-research.md  # 인지 과정과 뇌 연구
+│   ├── 03-facial-expressions-emotions.md  # 얼굴 표정과 감성 인식
+│   ├── 04-physiological-emotion-recognition.md  # 생체 신호 기반 감성 인식
+│   └── 05-emotional-computing.md  # 감성 컴퓨팅
+│
+└── 03-human-perception-cognition/  # 인간 지각과 인지 관련 자료
+    ├── 01-information-processing-model.md  # 인간 정보 처리 모형
+    ├── 02-visual-perception.md    # 시각적 지각
+    ├── 03-auditory-perception.md  # 청각적 지각
+    ├── 04-tactile-perception.md   # 촉각적 지각
+    └── 05-perception-measurement.md  # 지각 측정 및 정신물리학
 ```
-
-## 주요 주제
-
-### 1. HCI의 기본 개념
-
-HCI의 기본 정의, 중요성, 목표, 다양한 관점에서의 HCI 이해, 개념적 변화와 적용 범위를 살펴봅니다. 사용자와 컴퓨터 간의 상호작용을 효과적으로 설계하기 위한 기본 원칙을 탐구하고, HCI의 다학제적 특성을 이해합니다.
-
-### 2. 인지와 감성
-
-인지심리학과 인공지능의 관계를 탐구합니다. 인간의 인지 과정이 어떻게 컴퓨터 모델로 표현될 수 있는지, 그리고 이러한 이해가 어떻게 더 나은 인터페이스 설계로 이어질 수 있는지 살펴봅니다. 또한 얼굴 표정 분석 시스템(FACS)과 감성 인식 기술, 생체 신호 기반 감성 인식 방법론, 그리고 감성 컴퓨팅의 원리와 응용 분야를 통해 감성 컴퓨팅의 기반과 응용을 알아봅니다.
