@@ -23,6 +23,7 @@
 - [3.3 청각적 지각](03-human-perception-cognition/03-auditory-perception.md): 귀의 구조와 기능, 음의 성질과 측정, 청각 정보 처리
 - [3.4 촉각적 지각](03-human-perception-cognition/04-tactile-perception.md): 피부의 구조와 기능, 촉각 디스플레이
 - [3.5 지각 측정 및 정신물리학](03-human-perception-cognition/05-perception-measurement.md): 물리량과 지각량의 관계, 측정법, 신호 탐지 이론
+- [3.6 신경 시스템](03-human-perception-cognition/06-nervous-system.md): 뉴런의 구조와 기능, 신경계의 구성, 뇌의 주요 구조와 기능
 
 ## 디렉토리 구조
 
@@ -45,5 +46,6 @@ learning-human-computer-interaction/
     ├── 02-visual-perception.md    # 시각적 지각
     ├── 03-auditory-perception.md  # 청각적 지각
     ├── 04-tactile-perception.md   # 촉각적 지각
-    └── 05-perception-measurement.md  # 지각 측정 및 정신물리학
+    ├── 05-perception-measurement.md  # 지각 측정 및 정신물리학
+    └── 06-nervous-system.md       # 신경 시스템
 ```
