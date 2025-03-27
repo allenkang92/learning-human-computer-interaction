@@ -25,6 +25,14 @@
 - [3.5 지각 측정 및 정신물리학](03-human-perception-cognition/05-perception-measurement.md): 물리량과 지각량의 관계, 측정법, 신호 탐지 이론
 - [3.6 신경 시스템](03-human-perception-cognition/06-nervous-system.md): 뉴런의 구조와 기능, 신경계의 구성, 뇌의 주요 구조와 기능
 
+### 04. 사용자 경험
+- [4.1 사용자 경험의 기초](04-user-experience/01-ux-fundamentals.md): 경험의 개념, UX 디자인 역사, 개념 모델, 사용성 평가
+
+### 실습
+- [지도학습 - KNN을 활용한 감성 분류](practice/practice01.py): K-최근접 이웃 알고리즘을 사용한 감성 데이터 분류
+- [비지도학습 - K-평균 군집화](practice/practice02.py): K-평균 군집화를 통한 감성 데이터 군집 분석
+- [비지도학습과 K-평균 군집화 이론](practice/unsupervised-learning-kmeans.md): 비지도학습 개념과 K-평균 군집화 알고리즘 원리 설명
+
 ## 디렉토리 구조
 
 ```
@@ -41,11 +49,19 @@ learning-human-computer-interaction/
 │   ├── 04-physiological-emotion-recognition.md  # 생체 신호 기반 감성 인식
 │   └── 05-emotional-computing.md  # 감성 컴퓨팅
 │
-└── 03-human-perception-cognition/  # 인간 지각과 인지 관련 자료
-    ├── 01-information-processing-model.md  # 인간 정보 처리 모형
-    ├── 02-visual-perception.md    # 시각적 지각
-    ├── 03-auditory-perception.md  # 청각적 지각
-    ├── 04-tactile-perception.md   # 촉각적 지각
-    ├── 05-perception-measurement.md  # 지각 측정 및 정신물리학
-    └── 06-nervous-system.md       # 신경 시스템
+├── 03-human-perception-cognition/  # 인간 지각과 인지 관련 자료
+│   ├── 01-information-processing-model.md  # 인간 정보 처리 모형
+│   ├── 02-visual-perception.md    # 시각적 지각
+│   ├── 03-auditory-perception.md  # 청각적 지각
+│   ├── 04-tactile-perception.md   # 촉각적 지각
+│   ├── 05-perception-measurement.md  # 지각 측정 및 정신물리학
+│   └── 06-nervous-system.md       # 신경 시스템
+│
+├── 04-user-experience/           # 사용자 경험 관련 자료
+│   └── 01-ux-fundamentals.md     # 사용자 경험의 기초
+│
+└── practice/                     # 실습 코드 및 추가 자료
+    ├── practice01.py             # KNN 기반 감성 분류 실습
+    ├── practice02_kmeans.py      # K-평균 군집화 실습
+    └── unsupervised-learning-kmeans.md  # 비지도학습 및 K-평균 군집화 이론
 ```
