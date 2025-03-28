@@ -16,6 +16,7 @@
 - [2.3 얼굴 표정과 감성 인식](02-cognition-emotion/03-facial-expressions-emotions.md): FACS, 감성 표현, 표정 인식 기술
 - [2.4 생체 신호 기반 감성 인식](02-cognition-emotion/04-physiological-emotion-recognition.md): 심장 신호, HRV 분석, 생체 신호 기반 감성 인식
 - [2.5 감성 컴퓨팅](02-cognition-emotion/05-emotional-computing.md): 감성의 필요성, 감성의 정의와 분류, 감성 반응 이론
+- [2.6 감성 반응의 생체공학](02-cognition-emotion/06-emotional-bioengineering.md): 인간 정보 처리, 중추 신경계, 자율 신경계 반응
 
 ### 03. 인간 지각과 인지
 - [3.1 인간 정보 처리 모형](03-human-perception-cognition/01-information-processing-model.md): 인간의 정보 처리 과정, 구성 요소
@@ -33,6 +34,10 @@
 - [비지도학습 - K-평균 군집화](practice/practice02.py): K-평균 군집화를 통한 감성 데이터 군집 분석
 - [비지도학습과 K-평균 군집화 이론](practice/unsupervised-learning-kmeans.md): 비지도학습 개념과 K-평균 군집화 알고리즘 원리 설명
 
+### 05. AI와 머신러닝
+
+### 06. 인간 인지 과정과 HCI
+
 ## 디렉토리 구조
 
 ```
@@ -47,7 +52,8 @@ learning-human-computer-interaction/
 │   ├── 02-cognitive-brain-research.md  # 인지 과정과 뇌 연구
 │   ├── 03-facial-expressions-emotions.md  # 얼굴 표정과 감성 인식
 │   ├── 04-physiological-emotion-recognition.md  # 생체 신호 기반 감성 인식
-│   └── 05-emotional-computing.md  # 감성 컴퓨팅
+│   ├── 05-emotional-computing.md  # 감성 컴퓨팅
+│   └── 06-emotional-bioengineering.md  # 감성 반응의 생체공학
 │
 ├── 03-human-perception-cognition/  # 인간 지각과 인지 관련 자료
 │   ├── 01-information-processing-model.md  # 인간 정보 처리 모형
@@ -60,8 +66,10 @@ learning-human-computer-interaction/
 ├── 04-user-experience/           # 사용자 경험 관련 자료
 │   └── 01-ux-fundamentals.md     # 사용자 경험의 기초
 │
-└── practice/                     # 실습 코드 및 추가 자료
-    ├── practice01.py             # KNN 기반 감성 분류 실습
-    ├── practice02_kmeans.py      # K-평균 군집화 실습
-    └── unsupervised-learning-kmeans.md  # 비지도학습 및 K-평균 군집화 이론
+├── 05-ai-basics/                 # AI 및 머신러닝 관련 자료
+│
+└── 06-hci/                       # 인간 인지 과정과 HCI 관련 자료
+    ├── 01-short-term-memory.md   # 단기 기억
+    ├── 02-attention.md           # 주의
+    └── 03-long-term-memory.md    # 장기 기억
 ```
