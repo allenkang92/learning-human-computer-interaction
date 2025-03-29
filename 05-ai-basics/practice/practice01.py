@@ -18,7 +18,7 @@ def main():
     print("main")  # 메인 함수 실행 시작을 알리는 출력 역할.
 
     #  데이터 로드 _ CSV 파일
-    df = pd.read_csv('../data/Chapter1_data.CSV', encoding = 'utf8')
+    df = pd.read_csv('data/Chapter1_data.CSV', encoding = 'utf8')
 
     # 특성(feature) 데이터: 각성도와 긍정도.
     X = df.iloc[:, [1, 2]].values
